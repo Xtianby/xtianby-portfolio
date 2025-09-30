@@ -1,0 +1,10 @@
+xtianby-portfolio/
+│
+├── index.html         (Home page)
+├── gallery.html       (Gallery overview page)
+├── landscapes.html    (Gallery subpage: Landscapes)
+├── portraits.html     (Gallery subpage: Portraits)
+├── events.html        (Gallery subpage: Events)
+├── contact.html       (Contact page)
+├── style.css          (Main stylesheet)
+└── script.js          (Optional JS for gallery + form)
